@@ -1,0 +1,90 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/602f2052692cf988e4c783b6_601dce183e0010a314b36a0a_how-to-make-an-online-portfolio.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+.Name{
+  color: black;
+  font-size: 2rem;
+  text-decoration: none;
+  top: 20px;
+  left: 60px;
+  position: relative;
+  font-style: italic ;
+  font-weight: 500;
+  color: aliceblue;
+}
+
+
+.Navbar {
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  position: absolute;
+  gap: 2rem;
+  right: 100px;
+  top: 20px;
+  margin-right: 50px;
+  color: #ffff;
+}
+
+.icons{
+  color: black;
+  font-size: 20px;
+}
+
+.photo{
+  width: 400px;
+  height: 600px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+
+}
+
+.para{
+  font-size: 35px;
+  color: #ffff;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+  font-weight: 700;
+  font-style: oblique;
+}
+
+.home{
+  text-decoration: none;
+  color: #ffff;
+}
+
+.Myphoto{
+  height: 500px;
+  width:400px;
+  border-radius: 200px;
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+
+.aboutme{
+  position: absolute;
+  font-size: 40px;
+  color: #ffff;
+  top: 200px;
+  left: 600px;
+  font-weight: 600;
+  font-style:italic;
+}
+
+.resume{
+     position: absolute;
+     top: 100px;
+     left:600px;
+     width: 400px;
+     height: 500px;
+}
